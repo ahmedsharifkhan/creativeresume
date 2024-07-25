@@ -1,0 +1,64 @@
+# Home content configuration file
+##
+### here you can find all content for home page
+
+### Started Default
+started:
+  title: "Hello, I’m <strong>Ahmed Sharif Khan Noor</strong>, Digital Marketer and <br />Social Media Manager."
+  typed:
+    - "I code cool <strong>websites</strong>"
+    - "I develop <strong>mobile apps</strong>"
+    - "I love <strong>wordpress</strong>"
+
+
+
+
+### Started Personal now live
+started-personal:
+  title: "Hello, I’m <strong>Ahmed Sharif Khan Noor</strong>, Digital Marketer and <br />Social Media Manager."
+  typed:
+    - "I code cool <strong>websites</strong>"
+    - "I develop <strong>mobile apps</strong>"
+    - "I love <strong>wordpress</strong>"
+  image: "https://lh3.googleusercontent.com/pw/AP1GczP8LlgcqDHdepDEU2g1k5dhcB0BBHi6AGBCZFJpQMRvRABn6C81jVdoNZq2JA-UmjLppO6IYeoSbKk0vZoizU1dYnJpfwf-qjC1F-6QIxMeqGmWjhUdCAiUhURTTzvwd_UhQdSo5VhxNPTPXQMHAjo_Pg=w689-h919-s-no-gm?authuser=0"
+  
+
+
+
+
+
+
+
+
+
+### Started Image
+started-image:
+  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  typed:
+    - "I code cool <strong>websites</strong>"
+    - "I develop <strong>mobile apps</strong>"
+    - "I love <strong>wordpress</strong>"
+  image: "https://c4.wallpaperflare.com/wallpaper/760/955/638/artwork-landscape-sky-mountains-wallpaper-preview.jpg"
+  
+### Started Video
+started-video:
+  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  typed:
+    - "I code cool <strong>websites</strong>"
+    - "I develop <strong>mobile apps</strong>"
+    - "I love <strong>wordpress</strong>"
+  video: "https://youtu.be/S4L8T2kFFck"
+  image: "https://lh3.googleusercontent.com/pw/ADCreHe0QUBP26rGQYneHsmfaXmOCohgP86wVm9fwmOVbViXERxg4YXQ3bUTnfare6BXI69E-KGmYAK9zQc-Zd7tLh1gRmtFQlcDqxWGg8rVmnSM9PgjwI5aBU-6dLLuWNuEgTiRZkYaxz27MHUsj7tBm5_s=w480-h480-s-no-gm?authuser=0"
+  
+### Started Slider
+started-slider:
+  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  typed:
+    - "I code cool <strong>websites</strong>"
+    - "I develop <strong>mobile apps</strong>"
+    - "I love <strong>wordpress</strong>"
+  images:
+    - "assets/img/started_image.jpg"
+    - "assets/img/started_image2.jpg"
+    - "assets/img/started_image3.jpg"
+    - "assets/img/started_image4.jpg"
