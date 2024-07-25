@@ -3,14 +3,12 @@
 ### here you can find all content for home page
 
 ### Started Default
-started:
-  title: "Hello, I’m <strong>Ahmed Sharif Khan Noor</strong>, Digital Marketer and <br />Social Media Manager."
-  typed:
-    - "I do deep <strong>websites</strong>"
-    - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
-
-
+# started:
+#   title: "Hello, I’m <strong>Ahmed Sharif Khan Noor</strong>, Digital Marketer and <br />Social Media Manager."
+#   typed:
+#     - "I do deep <strong>websites</strong>"
+#     - "I develop <strong>mobile apps</strong>"
+#     - "I love <strong>wordpress</strong>"
 
 
 ### Started Personal now live
